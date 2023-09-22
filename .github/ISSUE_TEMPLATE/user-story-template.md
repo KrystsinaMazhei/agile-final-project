@@ -1,23 +1,22 @@
----
-name: User story template
-about: for describe US
+name: User story
+about: User story template
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-i.	**As a** [role]  
-ii.	 **I need** [function]  
-iii.	 **So that** [benefit]  
-iv.	   
-v.	 ### Details and Assumptions
-vi.	 * [document what you know]
-vii.	   
-viii.	 ### Acceptance Criteria  
-ix.	   
-x.	 ```gherkin
-xi.	 Given [some context]
-xii.	 When [certain action is taken]
-xiii.	 Then [the outcome of action is observed]
-xiv.	 ```
+**As a** [role]  
+ **I need** [function]  
+ **So that** [benefit]  
+   
+ ### Details and Assumptions
+ * [document what you know]
+   
+ ### Acceptance Criteria  
+   
+ ```gherkin
+ Given [some context]
+ When [certain action is taken]
+ Then [the outcome of action is observed]
+ 
